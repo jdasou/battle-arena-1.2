@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3edef950-adbe-4be8-a5e8-a9ed76b0ec65" name="Changes" comment="mini jeux">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/battle-arena-1.2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-    </list>
+    <list default="true" id="3edef950-adbe-4be8-a5e8-a9ed76b0ec65" name="Changes" comment="mini jeux" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +69,7 @@
       <workItem from="1679335034577" duration="46000" />
       <workItem from="1679335101670" duration="36000" />
       <workItem from="1679335170191" duration="1000" />
+      <workItem from="1679335194235" duration="192000" />
     </task>
     <task id="LOCAL-00001" summary="mini jeux">
       <created>1679327018226</created>
@@ -84,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679327018226</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mini jeux">
+      <created>1679335264532</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679335264532</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
